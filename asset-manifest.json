@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6082daca.css",
-    "main.js": "/static/js/main.0c100d31.js",
+    "main.css": "/static/css/main.25e04949.css",
+    "main.js": "/static/js/main.a961c6cb.js",
     "static/media/line.png": "/static/media/line.896ef886c1dee40c6949.png",
+    "static/media/sample-qrcode.png": "/static/media/sample-qrcode.7d110e706c3688a4d7c6.png",
     "static/media/instagram.png": "/static/media/instagram.734a95643ee0100baeca.png",
+    "static/media/shopee.png": "/static/media/shopee.5795afdf74168c3d5b45.png",
     "static/media/twitter.png": "/static/media/twitter.b413b75b86f226240110.png",
     "static/media/tiktok.png": "/static/media/tiktok.8aa7f7484a994ddf04ec.png",
+    "static/media/kailoka.png": "/static/media/kailoka.5b033a6e623c393d0684.png",
     "static/media/whatsapp.png": "/static/media/whatsapp.4e8fc0ec748ea51de8de.png",
     "static/media/telegram.png": "/static/media/telegram.795a990886763eeb5cea.png",
     "static/media/facebook.png": "/static/media/facebook.e0132cad39e5af7c71cd.png",
+    "static/media/tokopedia.png": "/static/media/tokopedia.b2187ba47fc41d6555c3.png",
     "index.html": "/index.html",
-    "main.6082daca.css.map": "/static/css/main.6082daca.css.map",
-    "main.0c100d31.js.map": "/static/js/main.0c100d31.js.map"
+    "main.25e04949.css.map": "/static/css/main.25e04949.css.map",
+    "main.a961c6cb.js.map": "/static/js/main.a961c6cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6082daca.css",
-    "static/js/main.0c100d31.js"
+    "static/css/main.25e04949.css",
+    "static/js/main.a961c6cb.js"
   ]
 }
